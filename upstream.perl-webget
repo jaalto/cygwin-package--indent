@@ -1,0 +1,3 @@
+tag1: indent
+  # http://packages.debian.org/unstable/indent pregexp:orig.tar.gz file:indent_0.1.1.orig.tar.gz new: x:
+  http://indent.isidore-it.eu/beautify.html pregexp:tar.gz file:indent-0.1.1.tar.gz new: x:

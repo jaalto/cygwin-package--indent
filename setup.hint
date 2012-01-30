@@ -1,0 +1,7 @@
+sdesc: "C/C++ language source code formatting program"
+ldesc: "Change layout of a C program by inserting or deleting whitespace.
+Program provides options for controlling the alignment of braces and
+declarations, program indenting, and other stylistic parameters,
+including formatting of both C and C++ comments."
+category: Devel
+requires: libintl8 libgcc1 texinfo
