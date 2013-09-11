@@ -28,15 +28,11 @@ Not related:
 
 Runtime requirements:
   cygwin
-  libiconv2
   libintl8
-  libgcc1
   texinfo	# postinstall.sh uses install-info(1)
 
 Build requirements:
   cygwin
-  gcc4
-  libiconv2
   libintl8
   texi2html
 
