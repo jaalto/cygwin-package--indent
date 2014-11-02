@@ -4,4 +4,4 @@ Program provides options for controlling the alignment of braces and
 declarations, program indenting, and other stylistic parameters,
 including formatting of both C and C++ comments."
 category: Devel
-requires: libintl8 texinfo
+requires: libintl8
