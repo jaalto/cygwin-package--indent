@@ -117,6 +117,12 @@ Port Notes:
     - please comment these targets from thew script if you
       don't have installed the tools needed (see above).
 
+----- version 2.2.11-2 -----
+- Remove texinfor depends; indent compiles it's own texinfo2man.exe
+- See also texinfo discussion
+  "Base 64-bit Cygwin now requires Perl"
+  https://cygwin.com/ml/cygwin/2014-10/msg00574.html
+
 ----- version 2.2.11-1 -----
 - New upstream release 2010-06-25 Jari Aalto
 
