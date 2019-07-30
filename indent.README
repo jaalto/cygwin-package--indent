@@ -67,15 +67,15 @@ Language:
 ------------------------------------
 
 Build instructions:
-  unpack indent-2.2.11-1-src.tar.bz2
+  unpack indent-2.2.12-1-src.tar.bz2
     if you use setup to install this src package, it will be
     unpacked under /usr/src automatically
   cd /usr/src
   ./indent*.sh all
 
 This will create:
-  indent-2.2.11-1.tar.bz2
-  indent-2.2.11-1-src.tar.bz2
+  indent-2.2.12-1.tar.xz
+  indent-2.2.12-1-src.tar.xz
 
 -------------------------------------------
 
@@ -116,6 +116,9 @@ Port Notes:
       included.
     - please comment these targets from thew script if you
       don't have installed the tools needed (see above).
+
+----- version 2.2.12-1 -----
+- New upstream release 2019-07-30 Jari Aalto
 
 ----- version 2.2.11-2 -----
 - Remove texinfor depends; indent compiles it's own texinfo2man.exe
